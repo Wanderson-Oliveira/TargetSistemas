@@ -1,0 +1,8 @@
+Esse teste funciona da seguinte maneira.
+
+Caso eu tenha entendido corretamente são duas salas, uma com três interruptores e outra com três lâmpadas.
+E eu só tenho que descobrir qual interruptor liga qual lâmpada.
+
+Eu deixo um interruptor ligado por um certo tempo, antes de eu chegar a outra sala, eu desligo esse interruptor, e ligo outro.
+Quando chegar na sala e ver uma lâmpada acesa, logo o interruptor dois liga ela, então eu só preciso colocar a mão nas outras lâmpadas para verificar qual está quente, a que estiver está conectada ao interruptor 1.
+O que faz sobrar uma lâmpada e o interruptor 3, se formos desconsiderar qualquer tipo de falha e ele realmente esteja conectado a lâmpada e ela esteja sem nenhum problema, ele irá acender a última lâmpada.
